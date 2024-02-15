@@ -47,13 +47,11 @@ Word clouds have been generated for each topic to provide a visual representatio
 ![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/f8dbd8ce-4813-4bfc-b848-b5a636306dcd)
 
 ### Topic 3
-[Word Cloud for Topic 3](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/c7bef646-0a51-4df8-960b-00f3d58de774)
-)
+![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/1e798d84-01eb-449a-a9b6-578cfa3c75d1)
 
 ### Topic 4
-[Word Cloud for Topic 4](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/ef3b530d-1b13-4778-b8e8-392d02422a3e)
-)
+![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/582ef0ee-ab77-4fe7-841d-9bb360ed72ad)
 
 ### Topic 5
-[Word Cloud for Topic 5](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/2ffea7b0-56a3-4bf0-ab60-b2d3c4391c8a)
-)
+![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/92fee8f3-9af2-446c-8ab2-5cd8e4c71461)
+
