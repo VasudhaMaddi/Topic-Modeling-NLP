@@ -34,24 +34,17 @@ The histogram below visualizes the distribution of articles among the identified
 ![histogram](https://github.com/VasudhaMaddi/nlp/assets/88607955/65e04f07-dd6e-485d-b9c3-72b2fcf5d625)
 
 
-[Distribution Histogram](![histogram](https://github.com/VasudhaMaddi/nlp/assets/88607955/f097380a-1629-4481-b068-e21b898d1e0c)
-)
-
-
 ## Word Clouds for Each Topic
 Word clouds have been generated for each topic to provide a visual representation of the most prominent words.
 
 ### Topic 0
-[Word Cloud for Topic 0](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/59e6f45e-9c42-4348-9f48-985f50558764)
-)
+![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/a4be54d8-890e-4f41-be28-35546605976b)
 
 ### Topic 1
-[Word Cloud for Topic 1](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/abce46e3-97e3-4e61-947d-e114dba33893)
-)
+![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/cbd04ee5-d8f2-47c7-8095-c4ef605f6d14)
 
 ### Topic 2
-[Word Cloud for Topic 2](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/cf730303-3cc9-43f2-a2fa-a8fad0e5fe9c)
-)
+![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/f8dbd8ce-4813-4bfc-b848-b5a636306dcd)
 
 ### Topic 3
 [Word Cloud for Topic 3](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/c7bef646-0a51-4df8-960b-00f3d58de774)
