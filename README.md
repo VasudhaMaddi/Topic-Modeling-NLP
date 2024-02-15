@@ -31,6 +31,8 @@ The optimal number of topics determined by the Latent Dirichlet Allocation (LDA)
 
 ## Distribution of Articles Among Topics
 The histogram below visualizes the distribution of articles among the identified topics. The x-axis represents the topics, and the y-axis represents the number of documents.
+![histogram](https://github.com/VasudhaMaddi/nlp/assets/88607955/65e04f07-dd6e-485d-b9c3-72b2fcf5d625)
+
 
 [Distribution Histogram](![histogram](https://github.com/VasudhaMaddi/nlp/assets/88607955/f097380a-1629-4481-b068-e21b898d1e0c)
 )
