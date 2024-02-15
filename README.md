@@ -6,58 +6,58 @@ The optimal number of topics determined by the Latent Dirichlet Allocation (LDA)
 ## Topics and Their Main Themes
 
 ### Topic 0
-- **Main Themes:** driver, code, new, patch, radeon, change, work, kernel, amd
-- **Insights:** This topic seems to focus on changes and developments in graphics drivers, particularly AMD Radeon.
+- **Main Themes:** new, also, via, system, release, feature, detail, year, improvement, developer
+- **Insights:** This topic suggests discussions related to new features, system improvements, and developer-related updates.
 
 ### Topic 1
-- **Main Themes:** mesa, driver, opengl, vulkan, game, work, opensource, developer, graphic
-- **Insights:** This topic suggests discussions related to Mesa, OpenGL, Vulkan, and graphics development in the context of gaming.
+- **Main Themes:** ubuntu, kernel, release, code, also, new, system, change, work, wayland
+- **Insights:** Discussions in this topic include developments in Ubuntu, kernel updates, and changes in system functionality, with a focus on Wayland.
 
 ### Topic 2
-- **Main Themes:** release, ubuntu, fedora, new, package, year, desktop, server, developer
-- **Insights:** This topic revolves around Linux distribution releases, with a focus on Ubuntu, Fedora, and developer-related packages.
+- **Main Themes:** driver, amd, code, performance, nan, graphic, intel, kernel, new, also
+- **Insights:** This topic revolves around graphics driver development, performance optimization, and updates for AMD and Intel graphics.
 
 ### Topic 3
-- **Main Themes:** driver, kernel, new, work, developer, kde, opensource, code, via
-- **Insights:** Discussions in this topic include developments in Linux kernel drivers, KDE, and open-source contributions.
+- **Main Themes:** release, fedora, gnome, change, improvement, new, via, work, developer, llvm
+- **Insights:** Discussions in this topic involve releases, changes, and improvements in Fedora, GNOME, and LLVM, with a focus on developer-related updates.
 
 ### Topic 4
-- **Main Themes:** kernel, driver, new, nvidia, amd, also, intel, code, graphic, power
-- **Insights:** This topic highlights developments in kernel drivers, including support for Nvidia, AMD, and Intel graphics, with a focus on power-related aspects.
+- **Main Themes:** driver, mesa, release, vulkan, opengl, new, also, graphic, amd, radeon
+- **Insights:** This topic highlights discussions related to Mesa, graphics drivers, and updates for Vulkan and OpenGL, with a focus on AMD Radeon.
 
 ### Topic 5
-- **Main Themes:** release, new, gnome, via, opencl, also, qt, gcc, improvement, work
-- **Insights:** Discussions in this topic involve new releases, particularly in the context of GNOME, OpenCL, Qt, and improvements in GCC.
-
-### Topic 6
-- **Main Themes:** test, wayland, performance, system, phoronix, benchmark, also, new, steam, result
-- **Insights:** This topic focuses on testing, benchmarking, and performance analysis, particularly in the context of Wayland, Phoronix, and Steam.
+- **Main Themes:** driver, opensource, also, kernel, game, new, hardware, graphic, work, code
+- **Insights:** Discussions in this topic cover open-source driver development, kernel updates, gaming-related topics, and hardware advancements.
 
 ## Distribution of Articles Among Topics
 The histogram below visualizes the distribution of articles among the identified topics. The x-axis represents the topics, and the y-axis represents the number of documents.
 
-[Distribution Histogram](link_to_image)
+[Distribution Histogram](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/44846353-a9af-41ef-b48a-f5365b73a638)
+)
 
 ## Word Clouds for Each Topic
 Word clouds have been generated for each topic to provide a visual representation of the most prominent words.
 
 ### Topic 0
-[Word Cloud for Topic 0](link_to_image)
+[Word Cloud for Topic 0](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/59e6f45e-9c42-4348-9f48-985f50558764)
+)
 
 ### Topic 1
-[Word Cloud for Topic 1](link_to_image)
+[Word Cloud for Topic 1](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/abce46e3-97e3-4e61-947d-e114dba33893)
+)
 
 ### Topic 2
-[Word Cloud for Topic 2](link_to_image)
+[Word Cloud for Topic 2](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/cf730303-3cc9-43f2-a2fa-a8fad0e5fe9c)
+)
 
 ### Topic 3
-[Word Cloud for Topic 3](link_to_image)
+[Word Cloud for Topic 3](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/c7bef646-0a51-4df8-960b-00f3d58de774)
+)
 
 ### Topic 4
-[Word Cloud for Topic 4](link_to_image)
+[Word Cloud for Topic 4](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/ef3b530d-1b13-4778-b8e8-392d02422a3e)
+)
 
 ### Topic 5
-[Word Cloud for Topic 5](link_to_image)
-
-### Topic 6
-[Word Cloud for Topic 6](link_to_image)
+[Word Cloud for Topic 5](![image](https://github.com/VasudhaMaddi/nlp/assets/88607955/2ffea7b0-56a3-4bf0-ab60-b2d3c4391c8a)
+)
