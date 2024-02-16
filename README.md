@@ -1,5 +1,17 @@
 
-# Information Extraction
+## Information Extraction
+The relevant information is extracted from each news article, including the title, publication date, author, and content. The text data is then cleaned and preprocessed to enhance its quality for further analysis.
+
+### Extraction Process:
+**Title:** The title of each news article is extracted to provide a concise summary of its content.
+**Publication Date:** The publication date indicates when the article was published and is crucial for understanding its temporal context.
+**Author:** The author's name is extracted to attribute the article's content to its creator.
+**Content:** The main body of the article, which contains the detailed information and analysis, is extracted for further processing.
+### Text Preprocessing:
+**Stopwords Removal:** Commonly occurring words such as "the," "is," and "and" are removed from the text data as they do not carry significant meaning for analysis.
+**Punctuation Removal:** Punctuation marks such as commas, periods, and exclamation marks are removed to ensure uniformity and consistency in the text.
+**Stemming or Lemmatization:** Words are reduced to their base or root form using stemming or lemmatization techniques. This step helps in reducing word variations and standardizing the text for analysis.
+The extraction and preprocessing steps ensure that the text data is clean, standardized, and ready for further analysis, such as topic modeling or sentiment analysis.
 
 
 
