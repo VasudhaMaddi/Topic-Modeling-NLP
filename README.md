@@ -1,12 +1,11 @@
 ## Data Collection
-The dataset has been collected from kaggle.com . 
-The JSON file contains a collection of news articles related to various technology topics. Each article in the JSON file has several fields such as "title", "content", "published_date", "author", "source", and "link".
-•	"title": The title of the article.
-•	"content": The content or main body of the article.
-•	"published_date": The date when the article was published (in the format YYYYMMDD).
-•	"author": The author or authors of the article.
-•	"source": The source or publication where the article was originally published.
-•	"link": The URL link to the original article.
+The dataset has been collected from kaggle.com .The JSON file contains a collection of news articles related to various technology topics. Each article in the JSON file has several fields such as "title", "content", "published_date", "author", "source", and "link".
+- **title:** The title of the article.
+- **content:** The content or main body of the article.
+- **published_date:** The date when the article was published (in the format YYYYMMDD).
+- **author:** The author or authors of the article.
+- **source:** The source or publication where the article was originally published.
+- **link:** The URL link to the original article.
 
 ## Information Extraction
 The relevant information is extracted from each news article, including the title, publication date, author, and content. The text data is then cleaned and preprocessed to enhance its quality for further analysis.
