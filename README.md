@@ -26,7 +26,7 @@ The extraction and preprocessing steps ensure that the text data is clean, stand
 # LDA Topic Analysis Results
 
 ## Optimal Number of Topics
-The optimal number of topics determined by the Latent Dirichlet Allocation (LDA) model is 7.
+The process of determining the optimal number of topics for LDA topic modeling is based on coherence scores, which helps in generating more interpretable topics from the given text data.
 
 ## Topics and Their Main Themes
 
