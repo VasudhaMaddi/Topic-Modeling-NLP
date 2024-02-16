@@ -35,39 +35,39 @@ The process of determining the optimal number of topics for LDA topic modeling i
 The LDA model identified 9 distinct topics within the collection of news articles:
 
 #### Topic 0: Software Development and Programming
-   - Keywords: code, compiler, project, developer, work, GCC, LLVM, library
+   - **Keywords:** code, compiler, project, developer, work, GCC, LLVM, library
    - This topic likely represents discussions related to software development, programming projects, and development tools.
 
 #### Topic 1: Open Source and Community
-   - Keywords: year, phoronix, developer, opensource, month
+   - **Keywords:** year, phoronix, developer, opensource, month
    - This topic suggests discussions about the open-source community, developments over time, and contributions from developers.
 
 #### Topic 2: Operating Systems and Software Distribution
-   - Keywords: device, system, software, Red Hat, distribution, firmware, Pi
+   - **Keywords:** device, system, software, Red Hat, distribution, firmware, Pi
    - This topic encompasses discussions related to operating systems, software distribution, and firmware updates, possibly focusing on projects like Raspberry Pi.
 
 #### Topic 3: Software Releases and Updates
-   - Keywords: release, new, improvement, fix, update, change, feature
+   - **Keywords:** release, new, improvement, fix, update, change, feature
    - This topic revolves around discussions about software releases, updates, features, and changes.
 
 #### Topic 4: Linux Distributions and Desktop Environments
-   - Keywords: Ubuntu, Fedora, GNOME, release, Wayland, desktop, KDE, package
+   - **Keywords:** Ubuntu, Fedora, GNOME, release, Wayland, desktop, KDE, package
    - This topic involves discussions about various Linux distributions, desktop environments, and associated package management.
 
 #### Topic 5: Graphics and Display Drivers
-   - Keywords: driver, Mesa, graphic, OpenGL, AMD, Radeon, Vulkan, NVIDIA
+   - **Keywords:** driver, Mesa, graphic, OpenGL, AMD, Radeon, Vulkan, NVIDIA
    - This topic suggests discussions about graphics drivers, OpenGL, Vulkan, and developments in the open-source graphics ecosystem.
 
 #### Topic 6: Gaming and Gaming Platforms
-   - Keywords: game, video, Steam, Wine, engine, Valve, Vulkan
+   - **Keywords:** game, video, Steam, Wine, engine, Valve, Vulkan
    - This topic encompasses discussions about gaming, gaming platforms like Steam, and gaming-related technologies like Vulkan.
 
 #### Topic 7: Performance Testing and Benchmarks
-   - Keywords: test, performance, CPU, system, benchmark, ARM, Intel
+   - **Keywords:** test, performance, CPU, system, benchmark, ARM, Intel
    - This topic includes discussions about performance testing, benchmarks, CPU performance, and system optimization.
 
 #### Topic 8: Kernel Development and Hardware
-   - Keywords: kernel, driver, patch, hardware, Intel, DRM
+   - **Keywords:** kernel, driver, patch, hardware, Intel, DRM
    - This topic revolves around discussions about kernel development, hardware support, graphics drivers, and patches.
 
 Overall, the LDA model has effectively identified the main themes present in the collection of news articles, covering a wide range of topics related to software development, open-source communities, operating systems, gaming, graphics, and hardware.
