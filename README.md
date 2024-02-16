@@ -80,7 +80,9 @@ The histogram below visualizes the distribution of articles among the identified
 
 
 ## Word Clouds for Each Topic
-Word clouds have been generated for each topic to provide a visual representation of the most prominent words.
+A word cloud is a visualization technique used to represent text data, where the size of each word corresponds to its frequency or importance within the text. In the context of topic modeling, word clouds are often generated for each topic to visually showcase the most prominent words associated with that topic.
+Larger words in the word cloud represent words that are more frequently mentioned in the topic's documents.
+Below are the word cloud visualization of each topic:
 
 ### Topic 0
 ![image](https://github.com/VasudhaMaddi/nlp/assets/146372017/bc04a3ab-1a68-40a4-a873-2b2772621c42)
